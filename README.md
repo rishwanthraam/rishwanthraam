@@ -114,6 +114,3 @@ Prompt Debugging • API Testing • System Design
 </tr>
 </table>
 </p>
-<p align="center">
-  <img src="https://github.com/Monishwaran45/Monishwaran45/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
